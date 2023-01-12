@@ -21,6 +21,7 @@ function App() {
         <Route path="/BudgetTracker" element={<BudgetTracker />} />
         <Route path="/Todo" element={<Todo />} />
         <Route path="/Contact" element={<Contact />} />
+        <Route path="/Weather" element={<Weather />} />
         <Route path="/About" element={<About />} />
       </Routes>
       </div>

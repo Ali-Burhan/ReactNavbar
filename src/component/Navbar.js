@@ -39,7 +39,10 @@ const Navbar = () => {
                     <Link to="/BudgetTracker" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
                         Budget Tracker
                     </Link>
-                    <Link to="/About" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
+                    <Link to="/Weather" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
+                        Weather
+                    </Link>
+                    <Link to="/About" className="block ml-3 mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
                         About
                     </Link>
                     <Link to="/Contact" className="block mx-3 mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">

@@ -10,7 +10,7 @@ function About() {
       <p className="text-lg text-gray-600 text-center">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit in nibhLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit in nibhLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit in nibhLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit in nibh congue, sit amet malesuada est commodo.
       </p>
-      <div className="my-8">
+      <div className="my-4">
         <img src={Alipic} className="rounded-full h-32 w-32 mx-auto" alt="Company Logo" />
       </div>
       <div className="text-center">
